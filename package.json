@@ -71,7 +71,7 @@
     "convert-units": "^2.3.4",
     "core-js": "^3.4.5",
     "cors": "^2.8.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-validator": "^6.3.0",
     "flag-icon-css": "^3.4.5",
     "font-awesome": "^4.7.0",
